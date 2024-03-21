@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
-echo "Creating S3 buckets"
+# Add one-time initialization commands, such as S3 bucket creation here
+awslocal s3 mb s3://example-init-bucket
 
-awslocal s3 mb s3://audio-uploads
-
-echo "Finished creating S3 buckets"
+echo "Finished initializing LocalStack"
