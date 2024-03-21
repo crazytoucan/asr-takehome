@@ -1,0 +1,1014 @@
+{
+  "jobName": "sample_0",
+  "status": "COMPLETED",
+  "results": {
+    "transcripts": [
+      {
+        "transcript": "it's a nice guy seventy six year deal as medical history of dramatic all have reached without lost consciousness as many children on my lot but not having received permission acute respiratory failure as a specify whether a party or hybrid happier gastrointestinal hemorrhaging specified wedge depression factor of ten eleven twelve or a sequel equally hypertension repeated falls other genetic an intellectual disability science to make pretty positive raspberry twenty two seventy six percent symbols and seven when eighty medications daily for an ass daily gross the my hypertension capra"
+      }
+    ],
+    "items": [
+      {
+        "start_time": 2.88,
+        "end_time": 3.046845,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.391203,
+            "content": "it's"
+          }
+        ]
+      },
+      {
+        "start_time": 3.51,
+        "end_time": 3.57,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.396713,
+            "content": "a"
+          }
+        ]
+      },
+      {
+        "start_time": 3.577211,
+        "end_time": 3.93,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.463703,
+            "content": "nice"
+          }
+        ]
+      },
+      {
+        "start_time": 3.96,
+        "end_time": 4.47,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.568261,
+            "content": "guy"
+          }
+        ]
+      },
+      {
+        "start_time": 4.77,
+        "end_time": 5.34,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "seventy"
+          }
+        ]
+      },
+      {
+        "start_time": 5.34,
+        "end_time": 5.76,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "six"
+          }
+        ]
+      },
+      {
+        "start_time": 5.76,
+        "end_time": 6.06,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "year"
+          }
+        ]
+      },
+      {
+        "start_time": 6.54,
+        "end_time": 6.928017,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.931934,
+            "content": "deal"
+          }
+        ]
+      },
+      {
+        "start_time": 7.29,
+        "end_time": 7.62,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.565226,
+            "content": "as"
+          }
+        ]
+      },
+      {
+        "start_time": 7.62,
+        "end_time": 8.04,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "medical"
+          }
+        ]
+      },
+      {
+        "start_time": 8.04,
+        "end_time": 8.73,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "history"
+          }
+        ]
+      },
+      {
+        "start_time": 9.15,
+        "end_time": 9.42,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "of"
+          }
+        ]
+      },
+      {
+        "start_time": 9.69,
+        "end_time": 10.26,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.657835,
+            "content": "dramatic"
+          }
+        ]
+      },
+      {
+        "start_time": 10.8,
+        "end_time": 10.89,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.342165,
+            "content": "all"
+          }
+        ]
+      },
+      {
+        "start_time": 10.89,
+        "end_time": 11.13,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.667676,
+            "content": "have"
+          }
+        ]
+      },
+      {
+        "start_time": 11.13,
+        "end_time": 11.393899,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.360719,
+            "content": "reached"
+          }
+        ]
+      },
+      {
+        "start_time": 11.393899,
+        "end_time": 11.76,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "without"
+          }
+        ]
+      },
+      {
+        "start_time": 11.76,
+        "end_time": 12.12,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "lost"
+          }
+        ]
+      },
+      {
+        "start_time": 12.15,
+        "end_time": 12.898932,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "consciousness"
+          }
+        ]
+      },
+      {
+        "start_time": 12.9,
+        "end_time": 13.11,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.75517,
+            "content": "as"
+          }
+        ]
+      },
+      {
+        "start_time": 13.11,
+        "end_time": 13.32,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.456503,
+            "content": "many"
+          }
+        ]
+      },
+      {
+        "start_time": 13.32,
+        "end_time": 13.769999,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.577591,
+            "content": "children"
+          }
+        ]
+      },
+      {
+        "start_time": 14.31,
+        "end_time": 14.46,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.364647,
+            "content": "on"
+          }
+        ]
+      },
+      {
+        "start_time": 14.775938,
+        "end_time": 14.985938,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.830167,
+            "content": "my"
+          }
+        ]
+      },
+      {
+        "start_time": 15.0,
+        "end_time": 15.24,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.823046,
+            "content": "lot"
+          }
+        ]
+      },
+      {
+        "start_time": 15.24,
+        "end_time": 15.479172,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.937956,
+            "content": "but"
+          }
+        ]
+      },
+      {
+        "start_time": 15.479172,
+        "end_time": 15.75,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "not"
+          }
+        ]
+      },
+      {
+        "start_time": 15.75,
+        "end_time": 16.23,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "having"
+          }
+        ]
+      },
+      {
+        "start_time": 16.41,
+        "end_time": 16.86,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.698571,
+            "content": "received"
+          }
+        ]
+      },
+      {
+        "start_time": 17.37,
+        "end_time": 17.91,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.698571,
+            "content": "permission"
+          }
+        ]
+      },
+      {
+        "start_time": 18.78,
+        "end_time": 19.08,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "acute"
+          }
+        ]
+      },
+      {
+        "start_time": 19.08,
+        "end_time": 19.622842,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "respiratory"
+          }
+        ]
+      },
+      {
+        "start_time": 19.622842,
+        "end_time": 19.897363,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.943575,
+            "content": "failure"
+          }
+        ]
+      },
+      {
+        "start_time": 19.905579,
+        "end_time": 20.069996,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.705415,
+            "content": "as"
+          }
+        ]
+      },
+      {
+        "start_time": 20.069996,
+        "end_time": 20.115168,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.306357,
+            "content": "a"
+          }
+        ]
+      },
+      {
+        "start_time": 20.115168,
+        "end_time": 20.46,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.471739,
+            "content": "specify"
+          }
+        ]
+      },
+      {
+        "start_time": 20.474244,
+        "end_time": 20.739168,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.945773,
+            "content": "whether"
+          }
+        ]
+      },
+      {
+        "start_time": 20.739168,
+        "end_time": 20.822624,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.752917,
+            "content": "a"
+          }
+        ]
+      },
+      {
+        "start_time": 20.850002,
+        "end_time": 21.270002,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.521087,
+            "content": "party"
+          }
+        ]
+      },
+      {
+        "start_time": 21.270002,
+        "end_time": 21.33236,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.521087,
+            "content": "or"
+          }
+        ]
+      },
+      {
+        "start_time": 21.33236,
+        "end_time": 21.69,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.674926,
+            "content": "hybrid"
+          }
+        ]
+      },
+      {
+        "start_time": 21.69,
+        "end_time": 22.2,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.985541,
+            "content": "happier"
+          }
+        ]
+      },
+      {
+        "start_time": 22.47,
+        "end_time": 23.342223,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "gastrointestinal"
+          }
+        ]
+      },
+      {
+        "start_time": 23.342223,
+        "end_time": 23.79,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.313252,
+            "content": "hemorrhaging"
+          }
+        ]
+      },
+      {
+        "start_time": 23.807344,
+        "end_time": 24.6,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.505804,
+            "content": "specified"
+          }
+        ]
+      },
+      {
+        "start_time": 24.87,
+        "end_time": 25.17,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.549776,
+            "content": "wedge"
+          }
+        ]
+      },
+      {
+        "start_time": 25.17,
+        "end_time": 25.68,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "depression"
+          }
+        ]
+      },
+      {
+        "start_time": 25.68,
+        "end_time": 26.040024,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "factor"
+          }
+        ]
+      },
+      {
+        "start_time": 26.040024,
+        "end_time": 26.16,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.996799,
+            "content": "of"
+          }
+        ]
+      },
+      {
+        "start_time": 26.16,
+        "end_time": 26.336699,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.637664,
+            "content": "ten"
+          }
+        ]
+      },
+      {
+        "start_time": 26.336699,
+        "end_time": 26.61,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.785622,
+            "content": "eleven"
+          }
+        ]
+      },
+      {
+        "start_time": 27.089998,
+        "end_time": 27.390471,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.637664,
+            "content": "twelve"
+          }
+        ]
+      },
+      {
+        "start_time": 27.390471,
+        "end_time": 27.56528,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.480152,
+            "content": "or"
+          }
+        ]
+      },
+      {
+        "start_time": 27.641023,
+        "end_time": 27.727227,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.393504,
+            "content": "a"
+          }
+        ]
+      },
+      {
+        "start_time": 27.75,
+        "end_time": 28.060589,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.343718,
+            "content": "sequel"
+          }
+        ]
+      },
+      {
+        "start_time": 28.060589,
+        "end_time": 28.41,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.531016,
+            "content": "equally"
+          }
+        ]
+      },
+      {
+        "start_time": 28.74,
+        "end_time": 29.52,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "hypertension"
+          }
+        ]
+      },
+      {
+        "start_time": 29.79,
+        "end_time": 30.18,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.654246,
+            "content": "repeated"
+          }
+        ]
+      },
+      {
+        "start_time": 30.18,
+        "end_time": 30.72,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.773658,
+            "content": "falls"
+          }
+        ]
+      },
+      {
+        "start_time": 31.26,
+        "end_time": 31.56,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "other"
+          }
+        ]
+      },
+      {
+        "start_time": 31.56,
+        "end_time": 32.04,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "genetic"
+          }
+        ]
+      },
+      {
+        "start_time": 32.32407,
+        "end_time": 32.46,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.435891,
+            "content": "an"
+          }
+        ]
+      },
+      {
+        "start_time": 32.474052,
+        "end_time": 33.09,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "intellectual"
+          }
+        ]
+      },
+      {
+        "start_time": 33.15,
+        "end_time": 33.84,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "disability"
+          }
+        ]
+      },
+      {
+        "start_time": 35.195164,
+        "end_time": 35.55,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.609799,
+            "content": "science"
+          }
+        ]
+      },
+      {
+        "start_time": 35.55,
+        "end_time": 35.7,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "to"
+          }
+        ]
+      },
+      {
+        "start_time": 35.7,
+        "end_time": 35.97,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.521185,
+            "content": "make"
+          }
+        ]
+      },
+      {
+        "start_time": 36.272065,
+        "end_time": 36.57,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "pretty"
+          }
+        ]
+      },
+      {
+        "start_time": 36.57,
+        "end_time": 37.2,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "positive"
+          }
+        ]
+      },
+      {
+        "start_time": 37.2,
+        "end_time": 37.8,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "raspberry"
+          }
+        ]
+      },
+      {
+        "start_time": 37.8,
+        "end_time": 38.22,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "twenty"
+          }
+        ]
+      },
+      {
+        "start_time": 38.4,
+        "end_time": 38.61,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.778338,
+            "content": "two"
+          }
+        ]
+      },
+      {
+        "start_time": 38.61,
+        "end_time": 39.03,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "seventy"
+          }
+        ]
+      },
+      {
+        "start_time": 39.03,
+        "end_time": 39.24,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "six"
+          }
+        ]
+      },
+      {
+        "start_time": 39.24,
+        "end_time": 39.6,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "percent"
+          }
+        ]
+      },
+      {
+        "start_time": 40.176222,
+        "end_time": 40.59,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.406134,
+            "content": "symbols"
+          }
+        ]
+      },
+      {
+        "start_time": 40.59,
+        "end_time": 40.77,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.961201,
+            "content": "and"
+          }
+        ]
+      },
+      {
+        "start_time": 40.77,
+        "end_time": 41.19,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.845531,
+            "content": "seven"
+          }
+        ]
+      },
+      {
+        "start_time": 41.73,
+        "end_time": 41.878839,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.450085,
+            "content": "when"
+          }
+        ]
+      },
+      {
+        "start_time": 41.878839,
+        "end_time": 42.3,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.891477,
+            "content": "eighty"
+          }
+        ]
+      },
+      {
+        "start_time": 42.99,
+        "end_time": 43.92,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.813159,
+            "content": "medications"
+          }
+        ]
+      },
+      {
+        "start_time": 45.57,
+        "end_time": 46.08,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "daily"
+          }
+        ]
+      },
+      {
+        "start_time": 47.1,
+        "end_time": 47.49,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "for"
+          }
+        ]
+      },
+      {
+        "start_time": 47.49,
+        "end_time": 47.61,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.889605,
+            "content": "an"
+          }
+        ]
+      },
+      {
+        "start_time": 47.61,
+        "end_time": 47.97,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.889605,
+            "content": "ass"
+          }
+        ]
+      },
+      {
+        "start_time": 48.3,
+        "end_time": 48.87,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 1.0,
+            "content": "daily"
+          }
+        ]
+      },
+      {
+        "start_time": 49.86,
+        "end_time": 50.141418,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.657647,
+            "content": "gross"
+          }
+        ]
+      },
+      {
+        "start_time": 50.141418,
+        "end_time": 50.25,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.444036,
+            "content": "the"
+          }
+        ]
+      },
+      {
+        "start_time": 50.251589,
+        "end_time": 50.82,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.916403,
+            "content": "my"
+          }
+        ]
+      },
+      {
+        "start_time": 56.16,
+        "end_time": 56.94,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.787236,
+            "content": "hypertension"
+          }
+        ]
+      },
+      {
+        "start_time": 59.37,
+        "end_time": 60.03,
+        "type": "pronunciation",
+        "alternatives": [
+          {
+            "confidence": 0.747099,
+            "content": "capra"
+          }
+        ]
+      }
+    ]
+  }
+}
